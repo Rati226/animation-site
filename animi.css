@@ -109,10 +109,10 @@ section .btntwo{
 }
 
 @keyframes changetext{
-    0%{content: " DARJEELING";}
-    25%{content: ' SHIMLA';}
+    0%{content: " ALMORA";}
+    25%{content: ' HALDWANI';}
     55%{content: ' MYSORRIE';}
-    75%{content: ' DELHI';}
+    75%{content: ' BANGALORE';}
     100%{content: ' MUMBAI';}
 }
 
