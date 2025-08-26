@@ -1,4 +1,4 @@
 # animation-site
-using css3 html5
+used Docker, AWS , CSS , HTML 
 
 live: https://rati226.github.io/animation-site/
